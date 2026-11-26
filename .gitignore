@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.tmp
+Thumbs.db
+Desktop.ini
+/.palette-work/
+/.palette-enrich/
+/.pinterest-download/
+/original/
